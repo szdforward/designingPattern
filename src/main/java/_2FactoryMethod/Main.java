@@ -1,6 +1,7 @@
 package _2FactoryMethod;
 
 /**
+ * 工厂方法模式（多态工厂模式）
  * 工厂方法的测试
  */
 public class Main {

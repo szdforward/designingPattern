@@ -1,6 +1,7 @@
 package _3AbstractFactory;
 
 /**
+ * 抽象工厂模式
  * 工厂方法的测试
  */
 public class Main {

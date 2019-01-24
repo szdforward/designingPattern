@@ -1,6 +1,7 @@
 package _1simpleFactory;
 
 /**
+ * 简单工厂模式
  * 简单工厂的测试
  */
 public class Main {

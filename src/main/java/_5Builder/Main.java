@@ -1,6 +1,7 @@
 package _5Builder;
 
 /**
+ * 建造者模式
  * Created by Administrator on 下午 11:23.
  * 后期如果还需要其他的房子的话，可以在创建新的工程队就可以了
  */

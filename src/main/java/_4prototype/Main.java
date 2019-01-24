@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 原型模式
  * Created by Administrator on 下午 10:08.
  */
 public class Main {
