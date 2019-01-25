@@ -1,6 +1,4 @@
-package _9flyWeight;
-
-import _8observer.Article;
+package _8observer;
 
 import java.util.Observable;
 
