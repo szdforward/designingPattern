@@ -1,5 +1,7 @@
 package _8observer;
 
+import _9flyWeight.BlogUser;
+
 /**
  * Created by Administrator on 下午 3:01.
  */
